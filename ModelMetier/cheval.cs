@@ -6,8 +6,8 @@ namespace ModelMetier
 {
     class Cheval
     {
-        private int idCheval; 
+        private int IdCheval;
         // idCheval - HCH4pppddsdsdsdszdzdzdzsccscscs
-         
+        public string NomCheval { get; set; }
     }
 }
