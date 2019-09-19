@@ -7,7 +7,7 @@ namespace ModelMetier
     class Cheval
     {
         private int idCheval; 
-        // idCheval - HCH4pppddsdsdsdszdzdzdz
+        // idCheval - HCH4pppddsdsdsdszdzdzdzsccscscs
          
     }
 }
